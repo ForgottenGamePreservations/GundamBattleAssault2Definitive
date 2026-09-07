@@ -1,4 +1,4 @@
-# Gundam Battle Assault 2 - All Mechs
+# Gundam Battle Assault 2 - Definitive
 
 A romhack of the PlayStation game Gundam Battle Assault 2 (NTSC-U) that makes the whole roster
 playable and adds the two game modes the retail disc has announcer voices for but no menu rows.

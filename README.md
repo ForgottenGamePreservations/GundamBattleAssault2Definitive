@@ -18,11 +18,10 @@ ships 12 mechs and 4 menu rows on a new save; this build gives you everything fr
 the retail data but were removed from the character select screen. On the select screen, a shoulder
 button picks one instantly from any cursor position:
 
-| Button | Mech |
-| R1 | Zeta Gundam |
-| R2 | Qubeley |
-| L1 | The-O |
-| L2 | Hamma Hamma |
+1. In any mode other than Story mode, Press R1 on the mecha select screen (doesn't matter which mech are you highlighting to play as Zeta Gundam! (The announcer will properly say "Zeta Gundam")
+2. In any mode other than Story mode, Press R2 on the mecha select screen (doesn't matter which mech are you highlighting to play as Qubeley! (The announcer will properly say "Qubeley")
+3. In any mode other than Story mode, Press L1 on the mecha select screen (doesn't matter which mech are you highlighting to play as The-O! (The announcer will properly say "The-O")
+4. In any mode other than Story mode, Press L2 on the mecha select screen (doesn't matter which mech are you highlighting to play as Hamma Hamma! (The announcer will properly say "Hamma Hamma")
 
 The press both confirms the pick and selects the mech. Move the cursor or press Triangle to go back
 to normal selection. It works in Versus CPU for either fighter, and in Versus 2P each player gets it

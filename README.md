@@ -83,6 +83,11 @@ Notes:
 - [DuckStation](https://github.com/stenzek/duckstation) by stenzek, used for every play test and for
   the RAM dumps that settled most of the questions in this project.
 
+## Downloads
+
+- **Download Here**: [Click Here](https://github.com/ForgottenGamePreservations/GundamBattleAssault2Definitive/releases/download/Stable/FGP.Gundam.Battle.Assault.2.Mod.NTSC-U.chd)
+- **GitHub**: [Click Here](https://github.com/ForgottenGamePreservations/GundamBattleAssault2Definitive)
+
 ## License
 
 The patch work in this project is released for free, non-commercial use. Credit is appreciated but

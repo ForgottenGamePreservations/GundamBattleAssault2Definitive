@@ -7,7 +7,7 @@ Everything is a binary patch to the game's own executable and archives. No sourc
 exists publicly; the patches are hand-written MIPS assembly injected into the shipped executable,
 and the art fixes are rebuilt inside the game's own compressed containers.
 
-![The main menu, now ten rows](img/Gundam%20Battle%20Assault%202%202026-08-22-16-51-51.png)
+![The main menu, now ten rows](assets/img/Gundam%20Battle%20Assault%202%202026-08-22-16-51-51.png)
 
 ## Features
 
@@ -19,7 +19,6 @@ the retail data but were removed from the character select screen. On the select
 button picks one instantly from any cursor position:
 
 | Button | Mech |
-|---|---|
 | R1 | Zeta Gundam |
 | R2 | Qubeley |
 | L1 | The-O |
@@ -37,7 +36,7 @@ four: Zeta Gundam, Qubeley and Hamma Hamma all carry Domon Kasshu's portrait and
 name plate, and two of them have a corrupt HUD head. Only The-O was finished. This build replaces
 the art with the correct name and a matching pilot.
 
-![Zeta Gundam versus The-O, both with correct plates and portraits](img/Gundam%20Battle%20Assault%202%202026-08-22-16-52-41.png)
+![Zeta Gundam versus The-O, both with correct plates and portraits](assets/img/Gundam%20Battle%20Assault%202%202026-08-22-16-52-41.png)
 
 **Two new modes**, placed next to the modes they derive from:
 
@@ -47,7 +46,7 @@ the art with the correct name and a matching pilot.
   be knocked down, so combos, ranges and timings can be practised properly. It stays a Versus CPU
   match on the select screens, which is what lets one player choose both mechs.
 
-![A 6 hit combo on the training dummy](img/Gundam%20Battle%20Assault%202%202026-08-22-16-53-22.png)
+![A 6 hit combo on the training dummy](assets/img/Gundam%20Battle%20Assault%202%202026-08-22-16-53-22.png)
 
 **A retail bug fixed.** In `OPTION > VOICE TEST`, Trowa's and Treize's clip list pointers are
 transposed on the retail disc, so each name plays the other's lines and shows the other's VOICE No.
